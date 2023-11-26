@@ -1,0 +1,22 @@
+{
+    "name": "destination-deployer",
+    "version": "1.0.0",
+    "description": "Tool to deploy destinations with data from SAP Credential Store",
+    "main": "src/main.ts",
+    "scripts": {
+        "watch": "npx tsc -w"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/anditru/destination-deployer.git"
+    },
+    "author": "Andre Trump",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/anditru/destination-deployer/issues"
+    },
+    "homepage": "https://github.com/anditru/destination-deployer#readme",
+    "devDependencies": {
+        "typescript": "^5.3.2"
+    }
+}
